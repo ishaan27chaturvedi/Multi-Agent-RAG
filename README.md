@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements a Multi-Agent Retrieval-Augmented Generation (RAG) system. Unlike traditional RAG systems that use a single context retrieval and generation mechanism, this multi-agent system leverages multiple contexts and specialized agents to provide a comprehensive and accurate final answer. The system decomposes the input question into multiple contexts, retrieves relevant information for each context, and synthesizes the results from multiple agents to produce a final answer.
+This project implements a Multi-Agent Retrieval-Augmented Generation (RAG) system. Unlike traditional RAG systems that use a single context retrieval and generation mechanism, this multi-agent system leverages multiple contexts and specialized agents to provide a comprehensive and accurate final answer. The system decomposes the input question into multiple contexts, retrieves relevant information for each context, and synthesizes the results from multiple agents to produce a final answer. The document used to answer questions is the following blog - https://lilianweng.github.io/posts/2023-06-23-agent/
 
 ## Libraries Used
 
